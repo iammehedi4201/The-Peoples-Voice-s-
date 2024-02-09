@@ -72,6 +72,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 <!-- Acknowledgments -->
 <h2 align="center">Acknowledgments</h2>
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc.
+
+* **Hat tip to anyone whose code was used**
+* **Inspiration**
+* **etc.**
