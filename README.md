@@ -15,10 +15,11 @@
 
 ### Installing
 
-1. **Clone the repository:**
-   ```ts
-   git clone https://github.com/your-username/your-project.git
-   ```
+- **Clone the repository:**
+
+```ts
+git clone https://github.com/your-username/your-project.git
+```
 
 ### Navigate to the client directory and install dependencies:
 
@@ -57,12 +58,13 @@ npm start
 
 <!-- Built With -->
 <h2 align="center">Built With</h2>
-- React - JavaScript library for building user interfaces
-- Node.js - JavaScript runtime
-- Express - Web application framework for Node.js
-<!-- Contributing -->
-<h2 align="center">Contributing</h2>
-Contributions are welcome! Please follow our contribution guidelines.
+
+- **React** - A JavaScript library for building user interfaces
+- **Node.js** - A JavaScript runtime
+- **Express** - A web application framework for Node.js
+  <!-- Contributing -->
+  <h2 align="center">Contributing</h2>
+- Contributions are welcome! Please follow our contribution guidelines.
 
 <!-- License -->
 <h2 align="center">License</h2>
