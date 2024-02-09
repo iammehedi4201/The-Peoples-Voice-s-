@@ -1,0 +1,19 @@
+.general-section{
+    margin-top: 180px;
+}
+
+@media (min-width : 576px) {
+
+    .general-section{
+        margin-top: 20px;
+    }
+    
+}
+
+@media (min-width : 800px) {
+
+    .general-section{
+        margin-top: 180px;
+    }
+    
+}

@@ -1,0 +1,19 @@
+.technology-section{
+    margin-top: 180px;
+}
+
+@media (min-width:570px) {
+    
+    .technology-section{
+        margin-top: 20px;
+    }
+
+}
+
+@media (min-width:800px) {
+    
+    .technology-section{
+        margin-top: 180px;
+    }
+
+}

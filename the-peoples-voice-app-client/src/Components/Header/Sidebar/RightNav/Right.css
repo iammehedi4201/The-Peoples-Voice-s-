@@ -1,0 +1,44 @@
+.right-sidebar{
+    width: 100%;
+    
+    padding: 15px;
+    border: 2px solid skyblue;
+ 
+    
+}
+.list-group-item{
+    margin: 5px;
+    font-weight: bold;
+    border: 2px solid skyblue;
+    
+}
+.icon{
+    font-size: 20px;
+    color:skyblue;
+}
+@media (min-width: 768px){
+
+    .right-sidebar{
+        width: 23%;
+        height: 80vh;
+        padding: 15px;
+        border: 2px solid skyblue;
+        position: fixed;
+        top:23%;
+        z-index: 1; 
+        overflow-y: scroll;
+    }
+}
+@media (max-width: 768px) {
+
+    .right-sidebar{
+        width: 100%;
+        min-height: 100vh;
+        padding: 15px;
+        border: 2px solid skyblue;
+        z-index: 1;
+        margin-top: -900px;
+        overflow: auto;
+    }
+
+}

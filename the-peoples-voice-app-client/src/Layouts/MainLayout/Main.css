@@ -1,0 +1,10 @@
+.leftsidenav-col{
+    display: none;
+}
+@media (min-width: 566px){
+
+    .leftsidenav-col{
+        display: block;
+    }
+
+}

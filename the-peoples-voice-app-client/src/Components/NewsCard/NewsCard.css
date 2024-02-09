@@ -1,0 +1,11 @@
+.card-style{
+    padding: 15px;
+    border: 4px solid skyblue!important;
+    color: white;
+    background-color:#2e3047!important;
+}
+.news-card-img-sizing{
+    width: 100%;
+    min-height: 45vh;
+    padding: 20px;
+}

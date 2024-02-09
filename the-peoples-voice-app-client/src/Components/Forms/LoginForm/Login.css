@@ -1,0 +1,20 @@
+.login-form-style{
+    min-height: 100vh;
+    width: 100%;
+    background:
+    linear-gradient(
+    rgba(246,247,249,0.8),
+    rgba(246,247,249,0.8))
+}
+
+.form-style{
+    margin-top: 130px!important;
+}
+
+.bg-color{
+    background:
+    linear-gradient(
+    rgba(35,43,85,0.75),
+    rgba(35,43,85,0.95))!important;
+    color: white!important;
+}

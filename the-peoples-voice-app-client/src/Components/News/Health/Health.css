@@ -1,0 +1,23 @@
+.health-section{
+    margin-top: 180px;
+}
+
+@media (min-width:570px) {
+
+    .health-section{
+
+        margin-top: 20px;
+
+    }
+    
+}
+
+@media (min-width:800px) {
+
+    .health-section{
+
+        margin-top: 180px;
+
+    }
+    
+}

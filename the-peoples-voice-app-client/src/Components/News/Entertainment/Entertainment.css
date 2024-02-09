@@ -1,0 +1,21 @@
+.entertainment-section{
+    margin-top: 180px;
+}
+
+@media (min-width: 574px) {
+
+    .entertainment-section{
+        margin-top:20px;
+    }
+    
+}
+
+
+@media (min-width: 800px) {
+
+    .entertainment-section{
+        margin-top:180px;
+    }
+    
+}
+
